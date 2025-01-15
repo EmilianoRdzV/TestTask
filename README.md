@@ -8,5 +8,4 @@ Este proyecto es una demostración de cómo utilizar y gestionar tareas (`Task`)
 - Visual Studio Code o Visual Studio 2019/2022
 
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+  gh repo clone EmilianoRdzV/TestTask
